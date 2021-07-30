@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI, ML, DL
 - 🌱 I’m currently learning Python
 - 📫 How to reach me :- Github: https://github.com/ryuuwon
-                       - Facebook: facebook.com/vancuongle65
+                       - Facebook: https://facebook.com/vancuongle65
                        
 
 <!---
