@@ -1,11 +1,35 @@
-- 👋 Hi, I’m @ryuuwon
-- 👀 I’m interested in AI, ML, DL
-- 🌱 I’m currently learning Python
-- 📫 How to reach me :- Github: https://github.com/ryuuwon
-                       - Facebook: https://facebook.com/vancuongle65
-                       
+> 👨🏻‍💻 Web Front-end Developer
 
-<!---
-ryuuwon/ryuuwon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Tech Stack
+
+- 🛠 Lang & Framework: Java, Python
+- ⛏ Interest: Python
+
+### Latest posts from 📝 
+
+- 
+- 
+- 
+
+### TIL from 🗒 
+
+- 
+- 
+- 
+
+### Portfolio
+
+> *pending...*
+
+![Leo's github stats](https://github-readme-stats.vercel.app/api?username=mopig&show_icons=true&theme=dracula&hide=stars,issues)
+
+<details>
+  <summary>Click👆</summary>
+  <pre>
+  🤷‍♂️
+  </pre>
+</details>
+
+![build]()
+![GitHub last commit]()
+![pv]()
