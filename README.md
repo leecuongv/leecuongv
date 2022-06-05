@@ -1,4 +1,4 @@
-> 👨🏻‍💻 Web Front-end Developer
+> 👨🏻‍💻 Developer
 
 ### Tech Stack
 
