@@ -29,7 +29,3 @@
   🤷‍♂️
   </pre>
 </details>
-
-![build]()
-![GitHub last commit]()
-![pv]()
