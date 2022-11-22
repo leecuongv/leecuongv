@@ -1,7 +1,4 @@
-### Hi there, I'm Piyush👦,
-A Full Stack Web developer🎯 and designer🎨 from India.
-
-- 👨‍💻 Full Stack MERN Developer
+### Hi there, I'm Lee Cuong👦,
 
 **Languages:**  
 
@@ -14,18 +11,16 @@ A Full Stack Web developer🎯 and designer🎨 from India.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 
-![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=piyush-eon&theme=tokyonight&show_icons=true&hide=["issues"])
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush-eon&theme=tokyonight&layout=compact)
+![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=leecuongv&theme=tokyonight&show_icons=true&hide=["issues"])
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leecuongv&theme=tokyonight&layout=compact)
 
-![](https://komarev.com/ghpvc/?username=piyush-eon)
+![](https://komarev.com/ghpvc/?username=leecuongv)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
- <!-- <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a> -->
-<a href="https://www.linkedin.com/in/leecuongv/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Piyush%20Agarwal-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:vancuongle65@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-piyushagarwalvo@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/leecuongv/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-LeeCuongv%20Agarwal-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:vancuongle65@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-vancuongle65@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
- <!--⭐️ From [Piyush Agarwal](https://github.com/piyush-eon)-->
 
