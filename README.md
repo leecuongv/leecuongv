@@ -19,7 +19,7 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/leecuongv/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-LeeCuongv%20Agarwal-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/leecuongv/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-LeeCuongv%20-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:vancuongle65@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-vancuongle65@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
