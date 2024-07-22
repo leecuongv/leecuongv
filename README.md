@@ -34,6 +34,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/leecuongv/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-LeeCuongv%20-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:vancuongle65@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-vancuongle65@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://g.dev/leecuongv"><img alt="Google for Developer" src="https://www.gstatic.com/devrel-devsite/prod/v85aee14ad439a087d9e958f223735d57cdfda16a7f6497504c9ce4a10dce0396/developers/images/lockup-new.svg"></a>
 </p>
 
 
