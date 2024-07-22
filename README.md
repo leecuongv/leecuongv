@@ -9,8 +9,10 @@
 <table style="width:90%;">
   <tr>
     <td>
+       <p align="center"> 
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leecuongv&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20programing%20language%20used%20!" alt="leecuongv" width="50%"/>
       <img src="https://github-readme-stats.vercel.app/api?username=leecuongv&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Works%20on%20Github" alt="leecuongv" width="50%"/>
+          </td>
     </td>
     <td>
       <p align="center"> 
