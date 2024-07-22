@@ -6,7 +6,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 
-<table style="width:100%;">
+<table style="width:90%;">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leecuongv&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20programing%20language%20used%20!" alt="leecuongv" width="50%"/>
